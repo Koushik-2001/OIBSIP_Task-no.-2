@@ -1,0 +1,35 @@
+body {
+  background-color: #EAF6F6;
+
+}
+p,td,li{
+    font-family:"Papyrus";
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-width: 5px;
+  width:5%;
+}
+h1{
+  color: #66BFBF;
+  font-family:serif;
+}
+h3{
+  color: #66BFBF;
+  font-family: serif;
+}
+#ab{
+  text-align: left;
+  display: inline-block;
+  width: 48%;
+}
+#bc{
+  text-align: right;
+  width: 48%;
+  display: inline-block;
+}
+.h:hover{
+  background-color: gold;
+}
